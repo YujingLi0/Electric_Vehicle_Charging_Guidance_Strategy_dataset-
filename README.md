@@ -1,0 +1,2 @@
+# Electric_Vehicle_Charging_Guidance_Strategy_dataset-
+EV drivers have experienced a charging inconvenience due to a limited number of charging facilities and mileage anxiety due to the limited driving distance for a single full charge. This paper developed a user-friendly online EV charging guidance algorithm to cope with the two aforementioned issues using multi-agent deep reinforcement learning.
